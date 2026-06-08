@@ -1,11 +1,11 @@
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3bfedc16-d4f9-4954-b9d8-8e80444d7722" />
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/prashant-pratap-singh-8217392a2/) 
 
 ## Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-prashantpratapsingh-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/prashantpratapsingh)
-
-- Codeforces: https://codeforces.com/profile/prashantpratapsingh
 - Max Rating: Specialist (1456) ⭐
 
 # 💻 Tech Stack:
