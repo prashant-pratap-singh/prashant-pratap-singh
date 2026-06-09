@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3bfedc16-d4f9-4954-b9d8-8e80444d7722" />
+<!-- <img width="600" alt="Image" src="https://github.com/user-attachments/assets/3bfedc16-d4f9-4954-b9d8-8e80444d7722" /> -->
+<img width="700"  alt="Image" src="https://github.com/user-attachments/assets/dcfe8b08-029b-43bb-83a8-1f7e3629ba19" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/prashant-pratap-singh-8217392a2/) 
