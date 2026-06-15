@@ -19,7 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prashant-pratap-singh&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/676ea4b7-d045-47fe-af45-b3dd499f2e99" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/676ea4b7-d045-47fe-af45-b3dd499f2e99" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
