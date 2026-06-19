@@ -10,6 +10,7 @@ Hi I'm Prashant Pratap Singh, an ECE Undergraduate passionate about Software Dev
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-prashantpratapsingh-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/prashantpratapsingh)
 - Max Rating: Specialist (1456) ⭐
+- Solved 500+ Problems 🚀
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-PrashantPratapSingh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/RCaDJ471qX/)
 
