@@ -22,7 +22,7 @@ Hi I'm Prashant Pratap Singh, an ECE Undergraduate passionate about Software Dev
 [![LeetCode](https://img.shields.io/badge/LeetCode-PrashantPratapSingh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/RCaDJ471qX/)
 
 - Max Rating: 1990 ⭐
-- Solved: 600+ Problems 🚀
+- Solved: 700+ Problems 🚀
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-cyborg_codes-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/cyborg_codes?utm=codolio)
 - Max Rating: 1656 ⭐
