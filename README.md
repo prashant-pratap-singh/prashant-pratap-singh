@@ -1,5 +1,6 @@
 <!-- <img width="600" alt="Image" src="https://github.com/user-attachments/assets/3bfedc16-d4f9-4954-b9d8-8e80444d7722" /> -->
-Hi I'm Prashant Pratap Singh, an ECE Undergraduate passionate about Software Development, Data Structures & Algorithms and Competitive Programming.
+# Hi! I'm Prashant Pratap Singh
+An ECE Undergraduate passionate about Software Development, Data Structures & Algorithms and Competitive Programming.
 🚀 Currently exploring full-stack development, system design, and real-world software engineering projects.
 
 <div align="center">
