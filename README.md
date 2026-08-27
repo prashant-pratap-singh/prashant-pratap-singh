@@ -4,12 +4,21 @@ An ECE Undergraduate passionate about Software Development, Data Structures & Al
 🚀 Currently exploring full-stack development, system design, and real-world software engineering projects.
 
 <div align="center">
-  <img
-    width="500"
-    alt="Image"
-    src="https://github.com/user-attachments/assets/dcfe8b08-029b-43bb-83a8-1f7e3629ba19"
-  />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/54eb866d-83b9-4254-a677-8a7aa7575adf" />
 </div>
+
+<td align="center" width="50%">
+  <img src="https://leetcard.jacoblin.cool/RCaDJ471qX?ext=heatmap" alt="LeetCode Heatmap" width = "300" />
+</td>
+
+
+<td align="center" width="50%">
+  <a href="https://codeforces.com/profile/prashantpratapsingh">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=prashantpratapsingh&theme=dark"
+         alt="Codeforces Stats"
+         width="300" />
+  </a>
+</td>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/prashant-pratap-singh-8217392a2/) 
