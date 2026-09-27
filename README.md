@@ -31,7 +31,7 @@ An Undergraduate passionate about **Software Development, Data Structures & Algo
 [![LeetCode](https://img.shields.io/badge/LeetCode-PrashantPratapSingh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/RCaDJ471qX/)
 
 - Max Rating: 2023 ⭐
-- Solved: 750+ Problems 🚀
+- Solved: 800+ Problems 🚀
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-cyborg_codes-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/cyborg_codes?utm=codolio)
 - Max Rating: 1656 ⭐
