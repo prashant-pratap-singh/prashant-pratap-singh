@@ -1,24 +1,23 @@
 <!-- <img width="600" alt="Image" src="https://github.com/user-attachments/assets/3bfedc16-d4f9-4954-b9d8-8e80444d7722" /> -->
 # Hi! I'm Prashant Pratap Singh
-An ECE Undergraduate passionate about Software Development, Data Structures & Algorithms and Competitive Programming.
-🚀 Currently exploring full-stack development, system design, and real-world software engineering projects.
+An ECE Undergraduate passionate about **Software Development, Data Structures & Algorithms and Competitive Programming.**
+🚀 Focused on **full-stack development, system design, and building real-world software engineering projects**.
+
 
 <div align="center">
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/54eb866d-83b9-4254-a677-8a7aa7575adf" />
 </div>
 
-<td align="center" width="50%">
-  <img src="https://leetcard.jacoblin.cool/RCaDJ471qX?ext=heatmap" alt="LeetCode Heatmap" width = "300" />
-</td>
+<a href="https://leetcode.com/u/RCaDJ471qX/">
+  <img src="https://leetcard.jacoblin.cool/RCaDJ471qX?ext=heatmap"
+       width="400" />
+</a>
 
+<a href="https://codeforces.com/profile/prashantpratapsingh">
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=prashantpratapsingh&theme=dark"
+       width="400" />
+</a>
 
-<td align="center" width="50%">
-  <a href="https://codeforces.com/profile/prashantpratapsingh">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=prashantpratapsingh&theme=dark"
-         alt="Codeforces Stats"
-         width="300" />
-  </a>
-</td>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/prashant-pratap-singh-8217392a2/) 
@@ -56,3 +55,4 @@ An ECE Undergraduate passionate about Software Development, Data Structures & Al
 ---
 [![](https://komarev.com/ghpvc/?username=prashant-pratap-singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:312e81,100:6366f1&height=120&section=footer" width="100%"/>
