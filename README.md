@@ -71,7 +71,7 @@ An Undergraduate passionate about **Software Development, Data Structures & Algo
         <img src="https://img.shields.io/badge/LeetCode-PrashantPratapSingh-orange?style=for-the-badge&logo=leetcode" />
       </a>
       <br><br>
-      Max Rating: 2059 ⭐
+      Max Rating: Knight (2059) ⭐
       <br>
       Solved: 850+ Problems 🚀
     </td>
