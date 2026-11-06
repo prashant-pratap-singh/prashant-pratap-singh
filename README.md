@@ -4,9 +4,40 @@ An Undergraduate passionate about **Software Development, Data Structures & Algo
 🚀 Focused on **full-stack development, system design, and building real-world software engineering projects**.
 
 
-<div align="center">
+<!-- <div align="center">
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/54eb866d-83b9-4254-a677-8a7aa7575adf" />
-</div>
+</div> -->
+
+## Projects
+
+1. **[Code Playground](https://github.com/prashant-pratap-singh/code-playground)**: A full-stack, browser-based IDE for writing and executing code.
+   - **Key Features:**
+     - Built an interactive coding environment using **Monaco Editor** and **WebContainers** for in-browser code execution.
+     - Integrated **Ollama** for AI-powered coding assistance using locally running LLMs.
+     - Implemented an integrated terminal, authentication, and multiple project templates.
+   - **Tech Stack:** Next.js, TypeScript, Monaco Editor, WebContainers, Ollama, Prisma.
+
+2. **[Hive](https://github.com/prashant-pratap-singh/hive)**: A full-stack real-time messaging platform.
+   - **Key Features:**
+     - Implemented real-time messaging and online user presence using **Socket.IO**.
+     - Integrated **Clerk** for authentication and session management.
+     - Enabled image sharing using **ImageKit** and persistent data storage with MongoDB.
+   - **Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO, Clerk, ImageKit.
+
+3. **[VideoTube](https://github.com/prashant-pratap-singh/videotube)**: A full-stack video-sharing platform.
+   - **Key Features:**
+     - Developed REST APIs for video uploads, likes, comments, and subscriptions.
+     - Implemented JWT authentication with access and refresh tokens.
+     - Integrated **Cloudinary** for media storage and **Multer** for file handling.
+   - **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary.
+
+4. **[Rate Limiter](https://github.com/prashant-pratap-singh/rate-limiter)**: An IP-based rate-limiting system with in-memory and distributed implementations.
+   - **Key Features:**
+     - Implemented request throttling using in-memory storage and **Redis**.
+     - Explored centralized and distributed request-tracking approaches.
+     - Enforced configurable request limits with automatic expiration and HTTP 429 responses.
+   - **Tech Stack:** Node.js, Express.js, Redis, JavaScript.
+
 
 <a href="https://leetcode.com/u/RCaDJ471qX/">
   <img src="https://leetcard.jacoblin.cool/RCaDJ471qX?ext=heatmap"
@@ -24,17 +55,35 @@ An Undergraduate passionate about **Software Development, Data Structures & Algo
 
 ## Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-prashantpratapsingh-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/prashantpratapsingh)
-- Max Rating: Specialist (1456) ⭐
-- Solved 500+ Problems 🚀
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-PrashantPratapSingh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/RCaDJ471qX/)
-
-- Max Rating: 2023 ⭐
-- Solved: 800+ Problems 🚀
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-cyborg_codes-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/cyborg_codes?utm=codolio)
-- Max Rating: 1656 ⭐
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/prashantpratapsingh">
+        <img src="https://img.shields.io/badge/Codeforces-prashantpratapsingh-blue?style=for-the-badge&logo=codeforces" />
+      </a>
+      <br><br>
+      Max Rating: Specialist (1456) ⭐
+      <br>
+      Solved 500+ Problems 🚀
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/RCaDJ471qX/">
+        <img src="https://img.shields.io/badge/LeetCode-PrashantPratapSingh-orange?style=for-the-badge&logo=leetcode" />
+      </a>
+      <br><br>
+      Max Rating: 2059 ⭐
+      <br>
+      Solved: 850+ Problems 🚀
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/cyborg_codes">
+        <img src="https://img.shields.io/badge/CodeChef-cyborg_codes-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+      </a>
+      <br><br>
+      Max Rating: 1656 ⭐
+    </td>
+  </tr>
+</table>
 
 
 # 💻 Tech Stack:
@@ -43,20 +92,25 @@ An Undergraduate passionate about **Software Development, Data Structures & Algo
 ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%23111827.svg?style=for-the-badge&logo=ultralytics&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-%230C2451.svg?style=for-the-badge&logo=razorpay&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-%236C47FF.svg?style=for-the-badge&logo=clerk&logoColor=white) ![ImageKit](https://img.shields.io/badge/ImageKit-%230C6EFC.svg?style=for-the-badge&logo=imagekit&logoColor=white)
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prashant-pratap-singh&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=prashant-pratap-singh&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prashant-pratap-singh&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prashant-pratap-singh&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=prashant-pratap-singh&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=prashant-pratap-singh&theme=algolia&hide_border=false" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prashant-pratap-singh&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/676ea4b7-d045-47fe-af45-b3dd499f2e99" />
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=prashant-pratap-singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:312e81,100:6366f1&height=120&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:312e81,100:6366f1&height=120&section=footer" width="100%"/> -->
